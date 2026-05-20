@@ -15,7 +15,18 @@ https://deyssiesquivia.wixsite.com/botonpreferencial
 - Investigación de experiencia de usuario  
 
 ### Evidencia visual
-(Aquí puedes agregar imágenes del proyecto)
+
+### Página de inicio
+![Inicio](inicio.png)
+
+### Servicios
+![Servicios](servicios.png)
+
+### Contacto
+![Contacto](contacto.png)
+
+### Alcance del proyecto
+![Alcance](alcance.png)
 
 ---
 
