@@ -23,7 +23,7 @@ https://deyssiesquivia.wixsite.com/botonpreferencial
 ![pagina_servicios.png)
 
 ### Contacto
-![pagina-contactos.png)
+![contacto.png)
 
 ### Alcance del proyecto
 ![página_alcance.png)
