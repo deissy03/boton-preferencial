@@ -17,16 +17,16 @@ https://deyssiesquivia.wixsite.com/botonpreferencial
 ### Evidencia visual
 
 ### Página de inicio
-![página-inicio.png)
+![página-de-inicio.png)
 
 ### Servicios
-![p+agina-servicios.png)
+![pagina_servicios.png)
 
 ### Contacto
-![Contacto](contacto.png)
+![pagina-contactos.png)
 
 ### Alcance del proyecto
-![Alcance](alcance.png)
+![página_alcance.png)
 
 ---
 
