@@ -19,7 +19,7 @@ https://deyssiesquivia.wixsite.com/botonpreferencial
 
 ---
 
-#  Sobre mí
+###Sobre mí
 Tengo habilidades en creación de páginas web tipo landing page, organización de proyectos digitales y diseño de soluciones enfocadas en la experiencia del usuario.
 
 ---
